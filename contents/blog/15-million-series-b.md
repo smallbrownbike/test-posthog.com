@@ -1,6 +1,6 @@
 ---
 date: 2021-06-10
-title: PostHog raises $15 million Series B for open source product analytics
+title: TEST
 rootPage: /blog
 sidebar: Blog
 showTitle: true
@@ -12,8 +12,6 @@ category: PostHog news
 tags:
   - Y Combinator
 ---
-
-testing12345
 
 **Jun 10th, 2021** – [PostHog](https://posthog.com), the open source product analytics company, today announced $15 million in fresh funding and major new free features for users of data warehouses.
 
