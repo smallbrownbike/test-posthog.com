@@ -1,6 +1,6 @@
 ---
 date: 2021-06-10
-title: Test
+title: PostHog raises $15 million Series B for open source product analytics
 rootPage: /blog
 sidebar: Blog
 showTitle: true
