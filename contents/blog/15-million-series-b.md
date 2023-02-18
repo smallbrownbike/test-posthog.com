@@ -1,6 +1,6 @@
 ---
 date: 2021-06-10
-title: Test
+title: Testing
 rootPage: /blog
 sidebar: Blog
 showTitle: true
