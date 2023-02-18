@@ -13,6 +13,8 @@ tags:
   - Y Combinator
 ---
 
+test
+
 **Jun 10th, 2021** – [PostHog](https://posthog.com), the open source product analytics company, today announced $15 million in fresh funding and major new free features for users of data warehouses.
 
 The company's Series B was led by existing investors Y Combinator's Continuity Fund, with participation from GV (formerly Google Ventures), and takes PostHog's total funding to over $27M, despite the company only recently turning one year old. As part of the round, Ali Rowghani, Managing Partner at YC Continuity, and former COO at Twitter and CFO at Pixar, will join the PostHog board. 
