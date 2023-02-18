@@ -1,0 +1,42 @@
+{
+    "main": [
+        {
+            "title": "Product",
+            "url": "/product",
+            "sub": {
+                "component": "Product"
+            }
+        },
+        {
+            "title": "Pricing",
+            "url": "/pricing"
+        },
+        {
+            "title": "Docs",
+            "url": "/docs",
+            "sub": {
+                "component": "Docs"
+            }
+        },
+        {
+            "title": "Community",
+            "url": "/community",
+            "sub": {
+                "component": "Community"
+            }
+        },
+        {
+            "title": "Company",
+            "url": "/about",
+            "sub": {
+                "component": "Company"
+            }
+        },
+        {
+            "title": "Login",
+            "classes": "text-center w-full",
+            "url": "https://app.posthog.com/login",
+            "hideBorder": true
+        }
+    ]
+}
